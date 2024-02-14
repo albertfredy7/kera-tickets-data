@@ -1,0 +1,4386 @@
+{
+    "films": [
+        {
+            "film_id": 315079,
+            "imdb_id": 13927994,
+            "imdb_title_id": "tt13927994",
+            "film_name": "Salaar: Part I - Ceasefire (Telugu)",
+            "other_titles": {
+                "TE": "Salaar: Cease Fire - Part 1"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/315079_high.mp4",
+            "synopsis_long": "A gang leader makes a promise to a dying friend by taking on other criminal gangs.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/315079/IND_315079h0.jpg",
+                            "width": 208,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/315079/315079h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 331615,
+            "imdb_id": 15428134,
+            "imdb_title_id": "tt15428134",
+            "film_name": "Dunki",
+            "other_titles": {
+                "HI": "Dunki"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/331615_high.mp4",
+            "synopsis_long": "DUNKI is a heart-warming tale of four friends and their quest to reach foreign shores, it charts the arduous yet life-changing journey they are about to undertake to make their dreams come true.  Drawn from Real-Life Experiences, Dunki is a saga of love and friendship that brings together these wildly disparate stories, and provides hilarious and heart-breaking answers. It also gives a glimpse into an enchanting, heart-warming, and unique tale that marks the return of storytelling to cinema.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331615/IND_331615h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331615/331615h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 319276,
+            "imdb_id": 13751694,
+            "imdb_title_id": "tt13751694",
+            "film_name": "Animal (Hindi)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-01",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/319276_high.mp4",
+            "synopsis_long": "This is the story of a son whose love for his father knows no bounds. As their bond begins to fracture, a chain of extraordinary events unfolds causing the son to undergo a remarkable transformation consumed by a thirst for vengeance.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319276/IND_319276h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319276/319276h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 320576,
+            "imdb_id": 14989988,
+            "imdb_title_id": "tt14989988",
+            "film_name": "Devil (Telugu)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "\"Devil\" centers on a British secret agent who decides to tackle a sinister mystery. He is drawn into a web of betrayal, deceit, and love. History can be altered by his success or failure.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/320576/IND_320576h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 288637,
+            "imdb_id": 9663764,
+            "imdb_title_id": "tt9663764",
+            "film_name": "Aquaman and The Lost Kingdom",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-21",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/288637_high.mp4",
+            "synopsis_long": "Having failed to defeat Aquaman the first time, Black Manta, still driven by the need to avenge his father's death, will stop at nothing to take Aquaman down once and for all. This time Black Manta is more formidable than ever before, wielding the power of the mythic Black Trident, which unleashes an ancient and malevolent force. To defeat him, Aquaman will turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance. Together, they must set aside their differences in order to protect their kingdom and save Aquaman's family, and the world, from irreversible destruction.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/288637/IND_288637h0.jpg",
+                            "width": 241,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/288637/288637h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 345326,
+            "imdb_id": 26744208,
+            "imdb_title_id": "tt26744208",
+            "film_name": "Kaatera",
+            "other_titles": {
+                "KA": "Kaatera"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Set against the rustic backdrop of the 1970s, the movie unfolds the tale of farmers confronting challenges that intricately shape the course of their lives.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/345326/IND_345326h0.jpg",
+                            "width": 246,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 317823,
+            "imdb_id": 10786774,
+            "imdb_title_id": "tt10786774",
+            "film_name": "Sam Bahadur",
+            "other_titles": {
+                "HI": "Sam Bahadur"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-01",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Sam Bahadur is a tribute to Field Marshal Sam HFJ Manekshaw, MC, India`s first Field Marshal and a legendary Army General. His career witnessed the shaping of India`s geopolitical borders, and his life was marked by significant milestones, from fighting in World War II to being the Chief of Army Staff during the 1971 Indo-Pakistan war, that led to the creation of Bangladesh.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/317823/IND_317823h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354484,
+            "imdb_id": 28358950,
+            "imdb_title_id": "tt28358950",
+            "film_name": "Neru",
+            "other_titles": {
+                "MA": "Neru"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-21",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Sara, a blind sculptor, seeks justice after suffering trauma. She contends with the legal system and her own resilience to find resolution.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354484/IND_354484h0.jpg",
+                            "width": 209,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 349137,
+            "imdb_id": 25433734,
+            "imdb_title_id": "tt25433734",
+            "film_name": "Hi Nanna (Telugu)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-07",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "A father must reveal the truth about his daughter's mother when someone from his past re-enters his life in this sensitive Telugu language drama, featuring emotional scenes, occasional violence and bloody detail.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/349137/IND_349137h0.jpg",
+                            "width": 179,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354724,
+            "imdb_id": 27610443,
+            "imdb_title_id": "tt27610443",
+            "film_name": "Saba Nayagan",
+            "other_titles": {
+                "TA": "Saba Nayagan"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Sub-Inspector Vishnu and his constables arrest Saba for being drunk and creating public nuisance. However, they release another man, who is heartbroken. Saba tries to regain his composure by sharing his heartbreak stories. Sub-Inspector Vishnu relates to Saba and provides clarity on his love life crisis. What happens next, makes Saba a true hero.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354724/IND_354724h0.jpg",
+                            "width": 194,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 329314,
+            "imdb_id": 6495056,
+            "imdb_title_id": "tt6495056",
+            "film_name": "Migration",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/329314_high_V2.mp4",
+            "synopsis_long": "The Mallard family is in a bit of rut. While dad Mack is content to keep his family safe paddling around their New England pond forever, mom Pam is eager to shake things up and show their kids - teen son Dax and duckling daughter Gwen - the whole wide world. After a migrating duck family alights on their pond with thrilling tales of far-flung places, Pam persuades Mack to embark on a family trip, via New York City, to tropical Jamaica.  As the Mallards make their way South for the winter, their well-laid plans quickly go awry. The experience will inspire them to expand their horizons, open themselves up to new friends and accomplish more than they ever thought possible, while teaching them more about each other - and themselves - than they ever imagined.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/329314/IND_329314h0.jpg",
+                            "width": 189,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/329314/329314h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354268,
+            "imdb_id": 29230279,
+            "imdb_title_id": "tt29230279",
+            "film_name": "Conjuring Kannappan",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-11-24",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "A young game developer, KP, accidentally triggers an ancient curse that traps him in a haunted palace in a dream world. With the help of an exorcist and his assistant, KP must find a way to break the curse and save his family from the ghost. The plan goes wrong, and Dark Daves must use her spell powers to help KP.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354268/IND_354268h0.jpg",
+                            "width": 241,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 352548,
+            "imdb_id": 29436996,
+            "imdb_title_id": "tt29436996",
+            "film_name": "Bubblegum (Telugu)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Bubblegum is the new-age love story of a young couple, Aadi and Jhanvi ,who hail from different backgrounds - their struggles dealing with the doubts, questions, and challenges life throws at them.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/352548/IND_352548h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354451,
+            "imdb_id": 29923681,
+            "imdb_title_id": "tt29923681",
+            "film_name": "Pradhan",
+            "other_titles": {
+                "BE": "Pradhan"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354451/IND_354451h0.jpg",
+                            "width": 171,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 64492,
+            "imdb_id": 1180583,
+            "imdb_title_id": "tt1180583",
+            "film_name": "Vaaranam Aayiram",
+            "other_titles": {
+                "TA": "?????? ??????"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2008-11-14",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Playing a duel role of a father and son is Surya (of Sillunu Oru Kaadhal and Vel fame). The movie shows how the father meets his ladylove and marries her, and how his son now relates to the women in his life and the lessons he learns from it. Also featured are Simran and Sameera Reddy, who play the mother and love interest respectively. Written, directed and produced by Gautam Menon, the movie is slated to be released in Tamil and Telugu.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/64492/IND_064492h0.jpg",
+                            "width": 201,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 350633,
+            "imdb_id": 27951272,
+            "imdb_title_id": "tt27951272",
+            "film_name": "Danny Jigar",
+            "other_titles": {
+                "GU": "Danny Jigar-Ek Matra"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-08",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/350633_high.mp4",
+            "synopsis_long": "Despite not fitting the traditional mold of a hero, the protagonist in this world exudes bravery and courage. Scaling walls and leaping from towering structuresare mere child's play to him, defying the limits of gravity. On the other hand, the leading lady may not be adorned with glamour, but her endearing qualities makeher all the more lovable. As the plot unfolds, the narrative centers around acenturies-old sculpture, snatched from a museum and intended as a grand giftfor the Japanese prime minister within a month's time. With the policecommissioner backed into a corner, he has no choice but to turn to the unconventional Danny. Be prepared to embark on a wild and hilarious journe ythrough Danny's world, populated with a cast of extraordinary and comical characters. Laughter awaits around every corner....",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/350633/350633h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 355007,
+            "imdb_id": 7754540,
+            "imdb_title_id": "tt7754540",
+            "film_name": "Odavum Mudiyadhu Oliyavum Mudiyadhu",
+            "other_titles": {
+                "TA": "Odavum Mudiyadhu Oliyavum Mudiyadhu"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/355007/IND_355007h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354681,
+            "imdb_id": 28541110,
+            "imdb_title_id": "tt28541110",
+            "film_name": "Kabuliwala (Bengali)",
+            "other_titles": {
+                "BE": "Kabuliwala"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354681/IND_354681h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 345558,
+            "imdb_id": 27411207,
+            "imdb_title_id": "tt27411207",
+            "film_name": "Queen Elizabeth (Malayalam)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/345558/IND_345558h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 349978,
+            "imdb_id": 28550639,
+            "imdb_title_id": "tt28550639",
+            "film_name": "Hurry Om Hurry",
+            "other_titles": {
+                "GU": "Hurry Om Hurry"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-08",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Om and Vini`s unforeseen union faces obstacles, leading to betrayal and a mysterious encounter that threatens to alter their lives.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/349978/IND_349978h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 315920,
+            "imdb_id": 6166392,
+            "imdb_title_id": "tt6166392",
+            "film_name": "Wonka",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-12-08",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/315920_high.mp4",
+            "synopsis_long": "An origin story that explores the vivid, mythical beginnings of the imaginative young inventor before he becomes the renowned scrumdiddlyumptious Mozart of chocolate",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/315920/IND_315920h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/315920/315920h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 342981,
+            "imdb_id": 27798104,
+            "imdb_title_id": "tt27798104",
+            "film_name": "Jhimma 2",
+            "other_titles": {
+                "MA": "Jhimma 2"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-11-24",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "The gang reunites for yet another excursion filled with adventure and self-discovery but this time with some unexpected twists. They come across new challenges that seem unsurpassable, but with the right people by your side, nothing seems impossible.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/342981/IND_342981h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        
+        {
+            "film_id": 355533,
+            "imdb_id": 29244100,
+            "imdb_title_id": "tt29244100",
+            "film_name": "Sarakku",
+            "other_titles": {
+                "TA": "Sarakku"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2023-12-29",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/355533/IND_355533h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354534,
+            "imdb_id": 23475032,
+            "imdb_title_id": "tt23475032",
+            "film_name": "Joe (Tamil)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2023-11-24",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354534/IND_354534h0.jpg",
+                            "width": 240,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "theaters":
+        {
+            "Thiruvananthapuram": [
+              "SP Cinemas",
+              "Kalabhavan Theatre",
+              "Aries Plex SL Cinemas",
+              "Ajanta Theatre",
+              "Kairali Theatre",
+              "SPI Kripa Cinemas",
+              "PVR: 4DX Lulu",
+              "PVR: Lulu",
+              "Sri Kalidas M Plex",
+              "Ajantha Theatre",
+              "Carnival Cinemas",
+              "Sree Padmanabha Theatre",
+              "New Theatre",
+              "Kripa Cinemas"
+            ],
+            "Kollam": [
+              "Carnival: H & J Complex",
+              "Gmax Cinemas 4K 3D",
+              "Carnival Cinemas",
+              "Archana & Aradhana Theatres",
+              "Varsha Royalsute Theatre",
+              "Pranavam Theatre",
+              "Grand & Prince Movie Theater",
+              "SPI Kripa Cinemas",
+              "PVR: 4DX Lulu",
+              "PVR: Lulu",
+              "Sri Kalidas M Plex",
+              "Usha Cinema",
+              "Swathy Screens",
+              "Seema Cineplex"
+            ],
+            "Alappuzha": [
+              "Pankaj Theatre",
+              "Santhi Theater",
+              "Kairali / Sree Alappuzha",
+              "Pan Cinemas",
+              "AEC Cinemas",
+              "Ganam Theatre",
+              "Prathibha Theatre",
+              "Santhosh: Vallakali Cine Complex",
+              "SN Theatre Haripad",
+              "Seethas Theatre",
+              "Sas Shanti Theatre",
+              "Sania Cinemas Eramalloor",
+              "Raiban Cine House",
+              "Paradise Cinema Cherthala"
+            ],
+            "Pathanamthitta": [
+              "Trinity MovieMax",
+              "Dhanya Remya",
+              "Aiswarya Theatre",
+              "Sreelakshmi Theatre",
+              "Sagariga Theatre",
+              "Smitha Theatre",
+              "Santhi Theatre",
+              "Nayanam Theatre",
+              "Mahalakshmi Theatre",
+              "Deepa Theatre",
+              "Chilanka Theatre",
+              "M K R Theatre",
+              "Aishwarya Theatre",
+              "MKR Theatre"
+            ],
+            "Kottayam": [
+              "Anand Theatres",
+              "Abhilash Theatre",
+              "Anaswara Theatre",
+              "Central Cinemas",
+              "Carnival Cinemas",
+              "Asha Anupama Theatre",
+              "Artist Kesavan Memorial Hall",
+              "Trinity MovieMax",
+              "Dhanya Remya",
+              "Aiswarya Theatre",
+              "Sreelakshmi Theatre",
+              "Sagariga Theatre",
+              "Smitha Theatre",
+              "Santhi Theatre"
+            ],
+            "Idukki": [
+              "Silver Hills Cinemas",
+              "Greenland Cinema",
+              "Aashirvad Cineplexx",
+              "Sree Krishna Theatre",
+              "Sree Padmanabha Theatre",
+              "Sree Rama Theatre",
+              "Sree Sankara Theatre",
+              "Sree Vinayaka Theatre",
+              "Sree Vishnu Theatre",
+              "Sree Vivekananda Theatre",
+              "Sree Narayana Theatre",
+              "Sree Gokulam Theatre",
+              "Sree Lakshmi Theatre",
+              "Sree Devi Theatre"
+            ],
+            "Ernakulam": [
+              "Cinepolis - Centre Square Mall",
+              "PVR, Lulu Mall",
+              "Shenoys Cinema",
+              "Majestic Multiplex",
+              "Cinepoint",
+              "Cinemax - Oberon Mall",
+              "Sangeetha Savitha Sarita Theatre",
+              "Padma Cinema 2K 3D",
+              "Sunrays Rajalakshmi Cine Services",
+              "EVM Cinema",
+              "Kanoos Cinema",
+              "PVR Cinemas",
+              "Q Cinemas - Gold Souk Grande",
+              "Carnival Cinemas - Angamaly"
+            ],
+            "Thrissur": [
+              "Georgettans Ragam 4K 3D",
+              "Jos Theater",
+              "Ganam Cinemas",
+              "Ramdas & Ravikrishna theatre",
+              "Kairali Sree Theatre 4K 3D",
+              "PVR Cinemas",
+              "Skyline Cinemas",
+              "Aswini Theatre",
+              "Dhanya Theatre",
+              "Bhavani Theatre",
+              "Elite Theatre",
+              "Priya Theatre",
+              "Ajantha Theatre",
+              "Sree Theatre"
+            ],
+            "Palakkad": [
+              "Priya Cinema",
+              "Priyadarsini Theatre 2K 3D",
+              "New Aroma",
+              "V CINEMAS SREE DEVI DURGA",
+              "Sathya Movie House",
+              "Ajantha Theatre",
+              "Alka Theatre",
+              "Kalpathy Theatre",
+              "Apsara Theatre",
+              "Sree Theatre",
+              "Devi Theatre",
+              "Priya Theatre",
+              "Arya Theatre",
+              "Elite Theatre"
+            ],
+            "Malappuram": [
+              "Gemini Cinemas",
+              "Cineplex Malappuram",
+              "Paragon Theatre",
+              "Sree Gokulam Movie Theatre",
+              "Elite Theatre",
+              "Kalpathy Theatre",
+              "Arya Theatre",
+              "Grand Theatre",
+              "Sreejith Theatre",
+              "Alka Theatre",
+              "Nila Theatre",
+              "Sree Krishna Theatre",
+              "Apsara Theatre",
+              "Devi Theatre"
+            ],
+            "Kozhikode": [
+              "RP Aashirvad Cineplexx",
+              "Apsara Theatre",
+              "Ashoka Talkies",
+              "Crown Theatre",
+              "Rose Cine Palace",
+              "B M Cinemas",
+              "Sandhya Cine House",
+              "Surabhi Cinemas",
+              "Kirthi Mudra Theater",
+              "Pee Cee Talkies",
+              "Magic Frames Cinemas",
+              "Regal Cinemas",
+              "Kairali Sree Theatre",
+              "Mallika Plex Theatre"
+            ],
+            "Wayanad": [
+              "Jose Cinemas",
+              "Aishwarya Ac Dts",
+              "Mint Cinemas",
+              "Blue Moon Theatre",
+              "Maruthi Theatre",
+              "Matha Theatre",
+              "Jaithra Theatre",
+              "Veena Theatre",
+              "Mahaveer Movies",
+              "Ananthaveera Theatre"
+            ],
+            "Kasargod": [
+              "MOVIEMAX CIRCLE",
+              "Carnival Cinemas Kasaragod",
+              "Cine Krishna Theatre",
+              "Vinayaka Golden Mall Multiplex",
+              "Deepthi Theatre",
+              "Vinayaka Theatre",
+              "Anjaneya Cinema Hall",
+              "Pakkanar Theatre",
+              "Vinayaka Multiplex",
+              "Kaveri Cinemas"
+            ],
+            "Kannur": [
+              "Sree Padmanabha Theatre",
+              "Savitha Film City",
+              "Coronation Theatre",
+              "Aishwarya Theatre",
+              "Kavitha Theatre",
+              "Sree Krishna Theatre",
+              "Little Kavitha",
+              "Seetha Theatre",
+              "Samudra Theatre",
+              "New Sagara Theatre"
+            ]
+          },
+    "filimDetails": [
+        
+              {
+                "film_id": 331615,
+                "imdb_id": 15428134,
+                "imdb_title_id": "tt15428134",
+                "film_name": "Dunki",
+                "other_titles": {
+                  "HI": "Dunki"
+                },
+                "version_type": "Standard",
+                "images": {
+                  "poster": {
+                    "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "xxlarge": {
+                        "film_image": "https://image.movieglu.com/331615/331615xxl1.jpg",
+                        "width": 1000,
+                        "height": 1500
+                      }
+                    }
+                  }
+                },
+                "synopsis_long": "DUNKI is a heart-warming tale of four friends and their quest to reach foreign shores, it charts the arduous yet life-changing journey they are about to undertake to make their dreams come true. Drawn from Real-Life Experiences, Dunki is a saga of love and friendship that brings together these wildly disparate stories, and provides hilarious and heart-breaking answers. It also gives a glimpse into an enchanting, heart-warming, and unique tale that marks the return of storytelling to cinema.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                  {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                  }
+                ],
+                "age_rating": [
+                  {
+                    "rating": "U/A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                    "age_advisory": ""
+                  }
+                ],
+                "duration_mins": 160,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": {
+                  "high": [
+                    {
+                      "film_trailer": "https://trailer.movieglu.com/331615_high.mp4",
+                      "trailer_image": "https://image.movieglu.com/331615/331615h3.jpg",
+                      "version": 1,
+                      "quality": "high",
+                      "region": "US"
+                    }
+                  ]
+                },
+                "genres": [
+                  {
+                    "genre_id": 3,
+                    "genre_name": "Comedy"
+                  },
+                  {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                  }
+                ],
+                "cast": [
+                  {
+                    "cast_id": 5843,
+                    "cast_name": "Shah Rukh Khan",
+                    "cast_image": "https://m.media-amazon.com/images/M/MV5BZDk1ZmU0NGYtMzQ2Yi00N2NjLTkyNWEtZWE2NTU4NTJiZGUzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg"
+                  },
+                  {
+                    "cast_id": 408,
+                    "cast_name": "Boman Irani",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/u71heG3Xw9IAwNpuufoelfjyYLG.jpg"
+                  },
+                  {
+                    "cast_id": 1766,
+                    "cast_name": "Taapsee Pannu",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/u9Gwg3J0bdczTPunP8qoWK2Vhu4.jpg"
+                  },
+                  {
+                    "cast_id": 1400,
+                    "cast_name": "Vicky Kaushal",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fik5AjdZRVborbztOBb6tENbtUk.jpg"
+                  },
+                  {
+                    "cast_id": 16495,
+                    "cast_name": "Vikram Kochhar",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qzwC8ebdicpuoVjfsM3KQSG6J9O.jpg"
+                  },
+                  {
+                    "cast_id": 21227,
+                    "cast_name": "Anil Grover",
+                    "cast_image":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6ZN0Y3j0oQrkqckYWRC5ixwieZ5.jpg"
+                  }
+                ],
+                "directors": [
+                  {
+                    "director_id": 5594,
+                    "director_name": "Rajkumar Hirani",
+                    "director_img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xwpN5swbmjmlaN0B8Eac5jyN4JQ.jpg"
+                  }
+                ],
+                "producers": [
+                  {
+                    "producer_id": 3449,
+                    "producer_name": "Rajkumar Hirani",
+                    "producer_img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xwpN5swbmjmlaN0B8Eac5jyN4JQ.jpg"
+                  },
+                  {
+                    "producer_id": 265,
+                    "producer_name": "Gauri Khan",
+                    "producer_img":""
+                  }
+                ],
+                "writers": [
+                  {
+                    "writer_id": 4489,
+                    "writer_name": "Rajkumar Hirani",
+                    "writer_img":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xwpN5swbmjmlaN0B8Eac5jyN4JQ.jpg"
+                  }
+                ],
+                "show_dates": [
+                  {
+                    "date": "2024-01-06"
+                  },
+                  {
+                    "date": "2024-01-07"
+                  },
+                  {
+                    "date": "2024-01-08"
+                  },
+                  {
+                    "date": "2024-01-09"
+                  },
+                  {
+                    "date": "2024-01-10"
+                  },
+                  {
+                    "date": "2024-01-11"
+                  },
+                  {
+                    "date": "2024-01-12"
+                  }
+                ],
+                "alternate_versions": []
+              },
+              {
+                "film_id": 315079,
+                "imdb_id": 13927994,
+                "imdb_title_id": "tt13927994",
+                "film_name": "Salaar: Part I - Ceasefire (Telugu)",
+                "other_titles": {
+                  "TE": "Salaar: Cease Fire - Part 1"
+                },
+                "version_type": "Standard",
+                "images": {
+                  "poster": {
+                    "1": {
+                      "image_orientation": "portrait",
+                      "region": "IN",
+                      "xxlarge": {
+                        "film_image": "https://image.movieglu.com/315079/IND_315079xxl0.jpg",
+                        "width": 1040,
+                        "height": 1500
+                      }
+                    },
+                    "2": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "xxlarge": {
+                        "film_image": "https://image.movieglu.com/315079/315079xxl1.jpg",
+                        "width": 1000,
+                        "height": 1500
+                      }
+                    }
+                  }
+                },
+                "synopsis_long": "A gang leader makes a promise to a dying friend by taking on other criminal gangs.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                  {
+                    "release_date": "2023-12-22",
+                    "notes": "IND"
+                  }
+                ],
+                "age_rating": [
+                  {
+                    "rating": "A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                    "age_advisory": ""
+                  }
+                ],
+                "duration_mins": 172,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": {
+                  "high": [
+                    {
+                      "film_trailer": "https://trailer.movieglu.com/315079_high.mp4",
+                      "trailer_image": "https://image.movieglu.com/315079/315079h3.jpg",
+                      "version": 1,
+                      "quality": "high",
+                      "region": "US"
+                    }
+                  ]
+                },
+                "genres": [
+                  {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                  },
+                  {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                  }
+                ],
+                "cast": [
+                  {
+                    "cast_id": 1267,
+                    "cast_name": "Prabhas",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6naZ3oybdCtfggc5pTrcBDxOXrP.jpg"
+                  },
+                  {
+                    "cast_id": 1924,
+                    "cast_name": "Shruti Haasan",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1zYJuSccSA45VVBdgozpRcL99Rd.jpg"
+                  },
+                  {
+                    "cast_id": 21369,
+                    "cast_name": "Prithviraj Sukumaran",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+                  },
+                  {
+                    "cast_id": 2970,
+                    "cast_name": "Jagapathi Babu",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+
+                  }
+                ],
+                "directors": [
+                  {
+                    "director_id": 192,
+                    "director_name": "Prashanth Neel"
+                  }
+                ],
+                "producers": [
+                  {
+                    "producer_id": 94,
+                    "producer_name": "Vijay Kiragandur"
+                  }
+                ],
+                "writers": [
+                  {
+                    "writer_id": 207,
+                    "writer_name": "Prashanth Neel"
+                  }
+                ],
+                "show_dates": [
+                  {
+                    "date": "2024-01-06"
+                  },
+                  {
+                    "date": "2024-01-07"
+                  },
+                  {
+                    "date": "2024-01-08"
+                  },
+                  {
+                    "date": "2024-01-09"
+                  },
+                  {
+                    "date": "2024-01-10"
+                  },
+                  {
+                    "date": "2024-01-11"
+                  }
+                ],
+                "alternate_versions": [
+                  {
+                    "film_id": 315202,
+                    "film_name": "Salaar: Part I - Ceasefire (Kannada)",
+                    "version_type": "Other"
+                  },
+                  {
+                    "film_id": 329646,
+                    "film_name": "Salaar: Part I - Ceasefire (Hindi)",
+                    "version_type": "Other"
+                  },
+                  {
+                    "film_id": 336225,
+                    "film_name": "Salaar: Part I - Ceasefire (Tamil)",
+                    "version_type": "Other"
+                  },
+                  {
+                    "film_id": 336226,
+                    "film_name": "Salaar: Part I - Ceasefire (Malayalam)",
+                    "version_type": "Other"
+                  },
+                  {
+                    "film_id": 350381,
+                    "film_name": "Salaar: Part 1 - Ceasefire: The IMAX 2D Experience",
+                    "version_type": "IMAX"
+                  }
+                ]
+              },
+              {
+                "film_id": 319276,
+                "imdb_id": 13751694,
+                "imdb_title_id": "tt13751694",
+                "film_name": "Animal (Hindi)",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                  "poster": {
+                    "1": {
+                      "image_orientation": "portrait",
+                      "region": "IN",
+                      "xxlarge": {
+                        "film_image": "https://image.movieglu.com/319276/IND_319276xxl0.jpg",
+                        "width": 1200,
+                        "height": 1500
+                      }
+                    },
+                    "2": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "xxlarge": {
+                        "film_image": "https://image.movieglu.com/319276/319276xxl1.jpg",
+                        "width": 1000,
+                        "height": 1500
+                      }
+                    }
+                  }
+                },
+                "synopsis_long": "This is the story of a son whose love for his father knows no bounds. As their bond begins to fracture, a chain of extraordinary events unfolds causing the son to undergo a remarkable transformation consumed by a thirst for vengeance.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                  {
+                    "release_date": "2023-12-01",
+                    "notes": "IND"
+                  }
+                ],
+                "age_rating": [
+                  {
+                    "rating": "A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                    "age_advisory": ""
+                  }
+                ],
+                "duration_mins": 202,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": {
+                  "high": [
+                    {
+                      "film_trailer": "https://trailer.movieglu.com/319276_high.mp4",
+                      "trailer_image": "https://image.movieglu.com/319276/319276h3.jpg",
+                      "version": 1,
+                      "quality": "high",
+                      "region": "US"
+                    }
+                  ]
+                },
+                "genres": [
+                  {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                  },
+                  {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                  }
+                ],
+                "cast": [
+                  {
+                    "cast_id": 21171,
+                    "cast_name": "Ranbir Kapoor",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+                  },
+                  {
+                    "cast_id": 429,
+                    "cast_name": "Anil Kapoor",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+
+                  },
+                  {
+                    "cast_id": 4110,
+                    "cast_name": "Bobby Deol",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+
+                  },
+                  {
+                    "cast_id": 1879,
+                    "cast_name": "Rashmika Mandanna",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oNdQeuoJk7kNjAHZd4vEcedC7yY.jpg"
+                  },
+                  {
+                    "cast_id": 723,
+                    "cast_name": "Parineeti Chopra",
+                    "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w2WTsdqs9t0OzQ9sxkntXKf5NAN.jpg"
+
+                  }
+                ],
+                "directors": [
+                  {
+                    "director_id": 613,
+                    "director_name": "Sandeep Reddy Vanga"
+                  }
+                ],
+                "producers": [
+                  {
+                    "producer_id": 573,
+                    "producer_name": "Bhushan Kumar"
+                  },
+                  {
+                    "producer_id": 344,
+                    "producer_name": "Pranay Reddy Vanga"
+                  }
+                ],
+                "writers": [
+                  {
+                    "writer_id": 581,
+                    "writer_name": "Sandeep Reddy Vanga"
+                  }
+                ],
+                "show_dates": [
+                  {
+                    "date": "2024-01-06"
+                  },
+                  {
+                    "date": "2024-01-07"
+                  },
+                  {
+                    "date": "2024-01-08"
+                  },
+                  {
+                    "date": "2024-01-09"
+                  },
+                  {
+                    "date": "2024-01-10"
+                  },
+                  {
+                    "date": "2024-01-11"
+                  }
+                ],
+                "alternate_versions": [
+                  {
+                    "film_id": 347614,
+                    "film_name": "Animal (Tamil)",
+                    "version_type": "Other"
+                  },
+                  {
+                    "film_id": 347615,
+                    "film_name": "Animal (Telugu)",
+                    "version_type": "Other"
+                  }
+                ]
+              },
+              {
+                "film_id": 320576,
+                "imdb_id": 14989988,
+                "imdb_title_id": "tt14989988",
+                "film_name": "Devil (Telugu)",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                          "image_orientation": "portrait",
+                          "region": "global",
+                          "xxlarge": {
+                            "film_image": "https://moviegalleri.net/wp-content/uploads/2023/12/Nandamuri-Kalyan-Ram-Devil-Movie-Releasing-on-December-29th-Poster.jpg",
+                            "width": 1000,
+                            "height": 1500
+                          }
+                        }
+                    }
+                },
+                "synopsis_long": "\"Devil\" centers on a British secret agent who decides to tackle a sinister mystery. He is drawn into a web of betrayal, deceit, and love. History can be altered by his success or failure.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 160,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": {
+                    "high": [
+                      {
+                        "film_trailer": "https://trailer.movieglu.com/331615_high.mp4",
+                        "trailer_image": "https://image.movieglu.com/331615/331615h3.jpg",
+                        "version": 1,
+                        "quality": "high",
+                        "region": "US"
+                      }
+                    ]
+                  },
+                "genres": [
+                    {
+                        "genre_id": 11,
+                        "genre_name": "Suspense/Thriller"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1865,
+                        "cast_name": "Nandamuri Kalyan Ram",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/awI6PFXlXu59xHEYKONSr0v0SHZ.jpg"
+
+                    },
+                    {
+                        "cast_id": 21274,
+                        "cast_name": "Elnaaz Noruzi",
+                        "cast_image": "https://www.gethucinema.com/wp-content/uploads/2023/08/ElnaazNorouzi-67.jpg"
+                    },
+                    {
+                        "cast_id": 2727,
+                        "cast_name": "Samyuktha Menon",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lyH5eDTwTTRzqaBaDd5qdUrlAmO.jpg"
+                    },
+                    {
+                        "cast_id": 725,
+                        "cast_name": "Mark Bennington",
+                        "cast_image":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kr1Nv0Q2cZEO4wVRFrUzdoXtM01.jpg"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8190,
+                        "director_name": "Abhishek Nama"
+                    }
+                ],
+                "producers": [],
+                "writers": [
+                    {
+                        "writer_id": 4766,
+                        "writer_name": "Srikanth Vissa"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+
+            },
+            {
+                "film_id": 288637,
+                "imdb_id": 9663764,
+                "imdb_title_id": "tt9663764",
+                "film_name": "Aquaman and The Lost Kingdom",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                          "image_orientation": "portrait",
+                          "region": "global",
+                          "xxlarge": {
+                            "film_image": "https://m.media-amazon.com/images/M/MV5BODgwMzA0NGUtNGQ2MC00MzA5LTlhNWUtMmM5YmJjMzYwMzc1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+                            "width": 1000,
+                            "height": 1500
+                          }
+                        }
+                    }
+                },
+                "synopsis_long": "Having failed to defeat Aquaman the first time, Black Manta, still driven by the need to avenge his father's death, will stop at nothing to take Aquaman down once and for all. This time Black Manta is more formidable than ever before, wielding the power of the mythic Black Trident, which unleashes an ancient and malevolent force. To defeat him, Aquaman will turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance. Together, they must set aside their differences in order to protect their kingdom and save Aquaman's family, and the world, from irreversible destruction.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-21",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 124,
+                "review_stars": 2,
+                "review_txt": "Ten years ago, with much fanfare, the DC Extended Universe was born. Warner Brothers, riding the wave of success from Christopher Nolan's Dark Knight trilogy, decided that rather than stick with stand-alone titles featuring their best-loved superheroes, they would instead chase Marvel by building a \"shared universe.\" The resultant umbrella project was rushed and chaotic with few standout films and a lot of duds. Justice League, rather than being DC's answer to The Avengers, was a colossal misstep from which the DCEU never recovered. Now, with James Gunn preparing to reboot the entire DC canon, the task has fallen to Aquaman and the Lost Kingdom - never during production intended to be a final chapter - to close the book on the DCEU. Perhaps fittingly, this anticlimactic slog is what we have come to expect from DC movies - an overlong, visually cluttered experience that's more interested in special effects and audio engineering than storytelling. The Aquaman sequel feels like it was mostly constructed in post-production, with CGI working hand-in-hand with editing to fashion something borderline-coherent. No matter how much fan love there might be for Jason Momoa, it's not enough to save this production.\n\nThere are essentially three major threads fighting for screen time. The first, and most enjoyable, relates to the brotherly rivalry between Arthur Curry (Momoa), King of Atlantis, and his deposed younger sibling, former King Orm (Patrick Wilson). Circumstances force Arthur to break Orm out of prison and the two engage in a white-hot love/hate relationship worthy of a rom-com. (Momoa has about 10x more chemistry with Wilson than with Arthur's alleged love interest, Mera, played by either Amber Heard or her cardboard lookalike.) Then there's a revenge subplot, with Aquaman baddie Black Manta (Yahya Abdul-Mateen II) determined to wipe out Arthur's entire bloodline using the black magic powers of his newly acquired \"Black Trident.\" Finally, there's the weaponization of Climate Change - a plot contortion that recalls Superman IV's disastrous attempt to meld real-world geopolitical concerns with a comic book storyline.\n\nThe film's overcluttered CGI at least gives viewers pretty things to look at for two hours. Rupert Gregson-Williams' score sounds suitably epic with discordant beats preparing viewers for big battles and ugly confrontations. But none of this means much of anything considering how little tension even the most extreme confrontation generates. The movie is so predictable that it's possible to take a bathroom break in the middle of a major fight scene and have a more exciting time trying to get the automated soap dispenser working properly. I stepped out for two minutes and missed absolutely nothing. This is short attention span cinema at its most extreme.\n\nFollowing the success of Aquaman, Warner Brothers decided that the best approach was to reform the band. So, in addition to re-signing most of the actors, director James Wan was lured back. Rumor has it that early test screenings were disastrous. Amber Heard's involvement became divisive after her spousal abuse trial against Johnny Depp. The unclear future of the DCEU, which apparently resulted in both Michael Keaton and Ben Affleck filming scenes as Bruce Wayne (neither of which was ultimately used), hung like the Sword of Damocles over the extensive reshoots. Like The Flash, the movie was deemed too expensive a property to jettison, so it was released into theaters with a wing and a prayer - not the best strategy for a nine-figure production.\n\nTo the extent that there's anything worthwhile to be found in Aquaman and the Lost Kingdom beyond the pretty visuals, one need look no further than the lead actor. Momoa has an easy, unforced charisma that shines regardless of whether he's re-enacting a scene from Three Men and a Baby, fighting to stay awake during an Atlantean council meeting, or trying to keep us from dozing off as he goes on an endless search for Black Manta.\n\nAs far as the Climate Change element is concerned - this aspect of the plot is so badly mishandled that it will thrill deniers far and wide. Climate Change is placed on the same level of fantastical nonsense as Black Magic Tridents and wondrous underwater cities. I'm sure that screenwriters had the best of intentions when writing this into the story but the same can be said of Lawrence Konner & Mark Rosenthal when they sat down at a typewriter in 1986. What did we get out of that? Nuclear Man.\n\nSo I raise my glass to the DCEU - a decade-long cinematic excursion that, done differently, might have left behind more than a few, widely-scattered good memories. Some want to blame the pandemic for its failure but this is more a case of deep structural instability exacerbated by egomaniacal personalities and inept planning. The first Aquaman may have been low-brow fun but the second is a chore from start to finish. Momoa, we are told, will be back with DC in a different role. Hopefully this time he'll have a screenplay worthy of his larger-than-life personality.\n\n© 2023 James Berardinelli",
+                "trailers": {
+                    "high": [
+                        {
+                            "film_trailer": "https://trailer.movieglu.com/288637_high.mp4",
+                            "trailer_image": "https://image.movieglu.com/288637/288637h3.jpg",
+                            "version": 1,
+                            "quality": "high",
+                            "region": "US"
+                        }
+                    ]
+                },
+                "genres": [
+                    {
+                        "genre_id": 5,
+                        "genre_name": "Action/Adventure"
+                    },
+                    {
+                        "genre_id": 10,
+                        "genre_name": "SciFi/Fantasy"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 91,
+                        "cast_name": "Jason Momoa",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+                    },
+                    {
+                        "cast_id": 92,
+                        "cast_name": "Amber Heard",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/E5atdOy9ScFDPdUd4CoeO2nvoc.jpg"
+                    },
+                    {
+                        "cast_id": 94,
+                        "cast_name": "Patrick Wilson",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+                    },
+                    {
+                        "cast_id": 1406,
+                        "cast_name": "Yahya Abdul-Mateen II",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aBDebGZs2pAucyaK4EhHVJGm0Xu.jpg"
+                    },
+                    {
+                        "cast_id": 16923,
+                        "cast_name": "Pilou Asbaek",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tAfdT1vfbRol4L40xWvV0sqWGPF.jpg"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 25,
+                        "director_name": "James Wan"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 2601,
+                        "producer_name": "James Wan"
+                    },
+                    {
+                        "producer_id": 315,
+                        "producer_name": "Peter Safran"
+                    },
+                    {
+                        "producer_id": 316,
+                        "producer_name": "Rob Cowan"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 27,
+                        "writer_name": "David Leslie Johnson-McGoldrick"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ],
+                "alternate_versions": [
+                    {
+                        "film_id": 353890,
+                        "film_name": "Aquaman and The Lost Kingdom: An IMAX 3D Experience",
+                        "version_type": "IMAX 3D"
+                    },
+                    {
+                        "film_id": 354148,
+                        "film_name": "Aquaman and The Lost Kingdom 3D",
+                        "version_type": "3D"
+                    }
+                ]
+            },
+            {
+                "film_id": 345326,
+                "imdb_id": 26744208,
+                "imdb_title_id": "tt26744208",
+                "film_name": "Kaatera",
+                "other_titles": {
+                    "KA": "Kaatera"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://www.filmibeat.com/fanimg/movie/20755/kaatera-photos-images-2023102300955700.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Set against the rustic backdrop of the 1970s, the movie unfolds the tale of farmers confronting challenges that intricately shape the course of their lives.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 183,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 5,
+                        "genre_name": "Action/Adventure"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1878,
+                        "cast_name": "Darshan Thoogudeep",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9kfjzl9jFDEU4ZE0KJfrZVg6mFC.jpg"
+
+                    },
+                    {
+                        "cast_id": 2970,
+                        "cast_name": "Jagapathi Babu",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+                    },
+                    {
+                        "cast_id": 21545,
+                        "cast_name": "Radhana Ram",
+                        "cast_image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/08/07/Malashree-s-daughter-Radhana-ram-Glam-HD-Stills-1.jpg?fit=1125%2C1683&quality=80&zoom=1&ssl=1?v=1659880467"
+                    },
+                    {
+                        "cast_id": 21629,
+                        "cast_name": "Kumar Govind",
+                        "cast_image": "https://images.moviebuff.com/1d4450f6-b0dc-442c-8872-b4c3119cf3a2?w=600"
+                    },
+                    {
+                        "cast_id": 16107,
+                        "cast_name": "Vaijanath Biradar",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ll3W46hIKYlyHyHspXocOqhpQKy.jpg"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 4846,
+                        "director_name": "Tharun Sudhir"
+                    }
+                ],
+                "producers": [],
+                "writers": [
+                    {
+                        "writer_id": 5764,
+                        "writer_name": "Udhay Pottipadu"
+                    },
+                    {
+                        "writer_id": 5765,
+                        "writer_name": "Tharun Sudhir"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 317823,
+                "imdb_id": 10786774,
+                "imdb_title_id": "tt10786774",
+                "film_name": "Sam Bahadur",
+                "other_titles": {
+                    "HI": "Sam Bahadur"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/317823/IND_317823xl0.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Sam Bahadur is a tribute to Field Marshal Sam HFJ Manekshaw, MC, India`s first Field Marshal and a legendary Army General. His career witnessed the shaping of India`s geopolitical borders, and his life was marked by significant milestones, from fighting in World War II to being the Chief of Army Staff during the 1971 Indo-Pakistan war, that led to the creation of Bangladesh.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-01",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 145,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 12,
+                        "genre_name": "War"
+                    },
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1400,
+                        "cast_name": "Vicky Kaushal",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9ujy2JdchOb1g5J5l1Ji0R2g1Z7.jpg"
+                    },
+                    {
+                        "cast_id": 13374,
+                        "cast_name": "Fatima Sana Shaikh",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/eVOziSvi6PLL5vkROHO1sbsKUFW.jpg"
+
+                    },
+                    {
+                        "cast_id": 5645,
+                        "cast_name": "Sanya Malhotra",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+                    },
+                    {
+                        "cast_id": 21339,
+                        "cast_name": "Mohd. Zeeshan Ayyub",
+                        "cast_image": "https://img.mensxp.com/media/content/2023/Nov/main-image-credit---Mohd-Zeeshan-Ayyub-Instagram_6554c48e9b511.jpeg"
+                    },
+                    {
+                        "cast_id": 21406,
+                        "cast_name": "Edward Sonnenblick",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8RAG0dhQp1L50zMpP0sh1rLP3tf.jpg"
+                    },
+                    {
+                        "cast_id": 21407,
+                        "cast_name": "Krishnakant Singh Bundela",
+                        "cast_image": "https://m.media-amazon.com/images/M/MV5BNDNmYzA0ZDktYjZhMi00NGRiLTg5YjUtYWNhYmRmM2FhN2E5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+                    },
+                    {
+                        "cast_id": 21408,
+                        "cast_name": "Jaskaran Singh Gandhi",
+                        "cast_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCYXP-X5_WaIq863WyitoTRyYf65m6h5OP9wwwJlL2hROP35pblv9MpGVZpc_BsQNorFY&usqp=CAU"
+
+                    },
+                    {
+                        "cast_id": 21222,
+                        "cast_name": "Richard Bhakti Klein",
+                        "cast_image": "https://m.media-amazon.com/images/M/MV5BZDc0OTcxMDktYzJkZC00MjU4LWJiOTgtZTMzZDBmNDE2ODg3XkEyXkFqcGdeQXVyNzk4NTM0MzM@._V1_.jpg"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 1172,
+                        "director_name": "Meghna Gulzar"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 174,
+                        "producer_name": "Ronnie Screwvala"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 2928,
+                        "writer_name": "Meghna Gulzar"
+                    },
+                    {
+                        "writer_id": 5716,
+                        "writer_name": "Bhavani Iyer"
+                    },
+                    {
+                        "writer_id": 1565,
+                        "writer_name": "Shantanu Srivastava"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 354484,
+                "imdb_id": 28358950,
+                "imdb_title_id": "tt28358950",
+                "film_name": "Neru",
+                "other_titles": {
+                    "MA": "Neru"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://www.kerala9.com/wp-content/uploads/2023/12/Neru-movie-hd-posters-.jpeg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Sara, a blind sculptor, seeks justice after suffering trauma. She contends with the legal system and her own resilience to find resolution.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-21",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 150,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1907,
+                        "cast_name": "Priyamani",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/i1sZtQcphZWJij3LoR9M6QY9i4z.jpg"
+                    },
+                    {
+                        "cast_id": 675,
+                        "cast_name": "Mohanlal",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+                    },
+                    {
+                        "cast_id": 7070,
+                        "cast_name": "Anaswara Rajan",
+                        "cast_image":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6bfqJVm4aj0cHNlbrlcGzIj9kvI.jpg"
+                    },
+                    {
+                        "cast_id": 1419,
+                        "cast_name": "Siddique",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+                    },
+                    {
+                        "cast_id": 16319,
+                        "cast_name": "Jagadish",
+                        "cast_image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jsYaW2Bs0wJCBmEU9KT2OtaUrqe.jpg"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 434,
+                        "director_name": "Jeethu Joseph"
+                    }
+                ],
+                "producers": [],
+                "writers": [
+                    {
+                        "writer_id": 5726,
+                        "writer_name": "Santhi Mayadevi"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 349137,
+                "imdb_id": 25433734,
+                "imdb_title_id": "tt25433734",
+                "film_name": "Hi Nanna (Telugu)",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/349137/IND_349137xxl0.jpg",
+                                "width": 896,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "A father must reveal the truth about his daughter's mother when someone from his past re-enters his life in this sensitive Telugu language drama, featuring emotional scenes, occasional violence and bloody detail.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-07",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 158,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    },
+                    {
+                        "genre_id": 8,
+                        "genre_name": "Family"
+                    },
+                    {
+                        "genre_id": 2,
+                        "genre_name": "Romance"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 4117,
+                        "cast_name": "Mrunal Thakur"
+                    },
+                    {
+                        "cast_id": 1924,
+                        "cast_name": "Shruti Haasan"
+                    },
+                    {
+                        "cast_id": 2160,
+                        "cast_name": "Nani"
+                    },
+                    {
+                        "cast_id": 802,
+                        "cast_name": "Jayaram"
+                    },
+                    {
+                        "cast_id": 10376,
+                        "cast_name": "Angad Bedi"
+                    },
+                    {
+                        "cast_id": 21228,
+                        "cast_name": "Klara Khanna"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 7676,
+                        "director_name": "Shouryuv"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 156,
+                        "producer_name": "Mohan Cherukuri"
+                    },
+                    {
+                        "producer_id": 4330,
+                        "producer_name": "K.S. Murthy"
+                    },
+                    {
+                        "producer_id": 4331,
+                        "producer_name": "Vijender Reddy Teegala"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 5676,
+                        "writer_name": "Shouryuv"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 354724,
+                "imdb_id": 27610443,
+                "imdb_title_id": "tt27610443",
+                "film_name": "Saba Nayagan",
+                "other_titles": {
+                    "TA": "Saba Nayagan"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/354724/IND_354724xxl0.jpg",
+                                "width": 972,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Sub-Inspector Vishnu and his constables arrest Saba for being drunk and creating public nuisance. However, they release another man, who is heartbroken. Saba tries to regain his composure by sharing his heartbreak stories. Sub-Inspector Vishnu relates to Saba and provides clarity on his love life crisis. What happens next, makes Saba a true hero.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-22",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 155,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 2,
+                        "genre_name": "Romance"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 5792,
+                        "cast_name": "Ashok Selvan"
+                    },
+                    {
+                        "cast_id": 1048,
+                        "cast_name": "Megha Akash"
+                    },
+                    {
+                        "cast_id": 16434,
+                        "cast_name": "Chandini Chowdary"
+                    },
+                    {
+                        "cast_id": 21522,
+                        "cast_name": "Karthika Muraleedharan"
+                    },
+                    {
+                        "cast_id": 15205,
+                        "cast_name": "Tulasi"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8316,
+                        "director_name": "C.S. Karthikeyan"
+                    }
+                ],
+                "producers": [],
+                "writers": [
+                    {
+                        "writer_id": 5739,
+                        "writer_name": "C.S. Karthikeyan"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 329314,
+                "imdb_id": 6495056,
+                "imdb_title_id": "tt6495056",
+                "film_name": "Migration",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/329314/IND_329314xxl0.jpg",
+                                "width": 947,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "The Mallard family is in a bit of rut. While dad Mack is content to keep his family safe paddling around their New England pond forever, mom Pam is eager to shake things up and show their kids - teen son Dax and duckling daughter Gwen - the whole wide world. After a migrating duck family alights on their pond with thrilling tales of far-flung places, Pam persuades Mack to embark on a family trip, via New York City, to tropical Jamaica.  As the Mallards make their way South for the winter, their well-laid plans quickly go awry. The experience will inspire them to expand their horizons, open themselves up to new friends and accomplish more than they ever thought possible, while teaching them more about each other - and themselves - than they ever imagined.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "0 ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 91,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": {
+                    "high": [
+                        {
+                            "film_trailer": "https://trailer.movieglu.com/329314_high_V2.mp4",
+                            "trailer_image": "https://image.movieglu.com/329314/329314h4.jpg",
+                            "version": 2,
+                            "quality": "high",
+                            "region": "US"
+                        },
+                        {
+                            "film_trailer": "https://trailer.movieglu.com/329314_high.mp4",
+                            "trailer_image": "https://image.movieglu.com/329314/329314h3.jpg",
+                            "version": 1,
+                            "quality": "high",
+                            "region": "US"
+                        }
+                    ]
+                },
+                "genres": [
+                    {
+                        "genre_id": 7,
+                        "genre_name": "Animation"
+                    },
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1272,
+                        "cast_name": "Kumail Nanjiani"
+                    },
+                    {
+                        "cast_id": 226,
+                        "cast_name": "Elizabeth Banks"
+                    },
+                    {
+                        "cast_id": 1761,
+                        "cast_name": "Awkwafina"
+                    },
+                    {
+                        "cast_id": 1057,
+                        "cast_name": "Keegan-Michael Key"
+                    },
+                    {
+                        "cast_id": 21304,
+                        "cast_name": "David Mitchell"
+                    },
+                    {
+                        "cast_id": 21305,
+                        "cast_name": "Carol Kane"
+                    },
+                    {
+                        "cast_id": 21306,
+                        "cast_name": "Caspar Jennings"
+                    },
+                    {
+                        "cast_id": 21307,
+                        "cast_name": "Tresi Gazal"
+                    },
+                    {
+                        "cast_id": 418,
+                        "cast_name": "Danny DeVito"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8208,
+                        "director_name": "Benjamin Renner"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 165,
+                        "producer_name": "Chris Meledandri"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 1213,
+                        "writer_name": "Mike White"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ],
+                "alternate_versions": [
+                    {
+                        "film_id": 349788,
+                        "film_name": "Migration 3D",
+                        "version_type": "3D"
+                    }
+                ]
+            },
+            {
+                "film_id": 354268,
+                "imdb_id": 29230279,
+                "imdb_title_id": "tt29230279",
+                "film_name": "Conjuring Kannappan",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://m.media-amazon.com/images/M/MV5BZDE3YTRhZjctMGQxNi00M2ZjLTk0NWQtZjViMWE4YTgxOTZmXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "A young game developer, KP, accidentally triggers an ancient curse that traps him in a haunted palace in a dream world. With the help of an exorcist and his assistant, KP must find a way to break the curse and save his family from the ghost. The plan goes wrong, and Dark Daves must use her spell powers to help KP.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-11-24",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 145,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 13,
+                        "genre_name": "Horror"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 17702,
+                        "cast_name": "Redin Kingsley"
+                    },
+                    {
+                        "cast_id": 19467,
+                        "cast_name": "Benedict Garrett"
+                    },
+                    {
+                        "cast_id": 702,
+                        "cast_name": "Nassar"
+                    },
+                    {
+                        "cast_id": 21281,
+                        "cast_name": "Jason Shaw"
+                    },
+                    {
+                        "cast_id": 21282,
+                        "cast_name": "Ellie Avrram"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8197,
+                        "director_name": "Selvin Raj Xavier"
+                    }
+                ],
+                "producers": [],
+                "writers": [
+                    {
+                        "writer_id": 5689,
+                        "writer_name": "Selvin Raj Xavier"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 352548,
+                "imdb_id": 29436996,
+                "imdb_title_id": "tt29436996",
+                "film_name": "Bubblegum (Telugu)",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/352548/IND_352548xxl0.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Bubblegum is the new-age love story of a young couple, Aadi and Jhanvi ,who hail from different backgrounds - their struggles dealing with the doubts, questions, and challenges life throws at them.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 146,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 2,
+                        "genre_name": "Romance"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 21451,
+                        "cast_name": "Roshan Kanakala"
+                    },
+                    {
+                        "cast_id": 21452,
+                        "cast_name": "Maanasa Choudhary"
+                    },
+                    {
+                        "cast_id": 14368,
+                        "cast_name": "Harsha Chemudu"
+                    },
+                    {
+                        "cast_id": 21542,
+                        "cast_name": "Bindu Chandramouli"
+                    },
+                    {
+                        "cast_id": 21543,
+                        "cast_name": "Anannyaa Akulaa"
+                    },
+                    {
+                        "cast_id": 21544,
+                        "cast_name": "Chaitu Jonnalagadda"
+                    },
+                    {
+                        "cast_id": 7209,
+                        "cast_name": "Anu Hasan"
+                    },
+                    {
+                        "cast_id": 19624,
+                        "cast_name": "Kiran Macha"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 5330,
+                        "director_name": "Ravikanth Perepu"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 4382,
+                        "producer_name": "P. Vimala"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 5744,
+                        "writer_name": "Vishnu Kondur"
+                    },
+                    {
+                        "writer_id": 4360,
+                        "writer_name": "Ravikanth Perepu"
+                    },
+                    {
+                        "writer_id": 5745,
+                        "writer_name": "Seri-Ganni"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 354451,
+                "imdb_id": 29923681,
+                "imdb_title_id": "tt29923681",
+                "film_name": "Pradhan",
+                "other_titles": {
+                    "BE": "Pradhan"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/354451/IND_354451xxl0.jpg",
+                                "width": 857,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-22",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 163,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 7169,
+                        "cast_name": "Dev"
+                    },
+                    {
+                        "cast_id": 2445,
+                        "cast_name": "Soham Chakraborty"
+                    },
+                    {
+                        "cast_id": 1118,
+                        "cast_name": "Kharaj Mukherjee"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 6793,
+                        "director_name": "Avijit Sen"
+                    }
+                ],
+                "producers": [],
+                "writers": [],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 64492,
+                "imdb_id": 1180583,
+                "imdb_title_id": "tt1180583",
+                "film_name": "Vaaranam Aayiram",
+                "other_titles": {
+                    "TA": "?????? ??????"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://m.media-amazon.com/images/M/MV5BMDQ5MDIyNDktMWZmOS00NTQ5LTk2YTAtYzQ5NDlmYzI0MWQzXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Playing a duel role of a father and son is Surya (of Sillunu Oru Kaadhal and Vel fame). The movie shows how the father meets his ladylove and marries her, and how his son now relates to the women in his life and the lessons he learns from it. Also featured are Simran and Sameera Reddy, who play the mother and love interest respectively. Written, directed and produced by Gautam Menon, the movie is slated to be released in Tamil and Telugu.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2008-11-14",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 178,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 11,
+                        "genre_name": "Suspense/Thriller"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1655,
+                        "cast_name": "Surya Sivakumar"
+                    },
+                    {
+                        "cast_id": 1656,
+                        "cast_name": "Sameera Reddy"
+                    },
+                    {
+                        "cast_id": 1657,
+                        "cast_name": "Simran"
+                    },
+                    {
+                        "cast_id": 1658,
+                        "cast_name": "Daniel Balaji"
+                    },
+                    {
+                        "cast_id": 1659,
+                        "cast_name": "Tirlok Malik"
+                    },
+                    {
+                        "cast_id": 1660,
+                        "cast_name": "Paul Basile"
+                    },
+                    {
+                        "cast_id": 1661,
+                        "cast_name": "Divya Spandana"
+                    },
+                    {
+                        "cast_id": 1662,
+                        "cast_name": "Cleo Berry"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 406,
+                        "director_name": "Gautham Menon"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 246,
+                        "producer_name": "Oscar Ravichandran"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 450,
+                        "writer_name": "Gautham Menon"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 350633,
+                "imdb_id": 27951272,
+                "imdb_title_id": "tt27951272",
+                "film_name": "Danny Jigar",
+                "other_titles": {
+                    "GU": "Danny Jigar-Ek Matra"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/350633/350633xl1.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Despite not fitting the traditional mold of a hero, the protagonist in this world exudes bravery and courage. Scaling walls and leaping from towering structuresare mere child's play to him, defying the limits of gravity. On the other hand, the leading lady may not be adorned with glamour, but her endearing qualities makeher all the more lovable. As the plot unfolds, the narrative centers around acenturies-old sculpture, snatched from a museum and intended as a grand giftfor the Japanese prime minister within a month's time. With the policecommissioner backed into a corner, he has no choice but to turn to the unconventional Danny. Be prepared to embark on a wild and hilarious journe ythrough Danny's world, populated with a cast of extraordinary and comical characters. Laughter awaits around every corner....",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2024-01-05",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 127,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": {
+                    "high": [
+                        {
+                            "film_trailer": "https://trailer.movieglu.com/350633_high.mp4",
+                            "trailer_image": null,
+                            "version": 1,
+                            "quality": "high",
+                            "region": "US"
+                        }
+                    ]
+                },
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 5,
+                        "genre_name": "Action/Adventure"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 251,
+                        "cast_name": "Yash Soni"
+                    },
+                    {
+                        "cast_id": 15857,
+                        "cast_name": "Tarjanee Bhadla"
+                    },
+                    {
+                        "cast_id": 4496,
+                        "cast_name": "Jitendra Thakkar"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 4433,
+                        "director_name": "Krishnadev Yagnik"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 4372,
+                        "producer_name": "Nilay Chotai"
+                    },
+                    {
+                        "producer_id": 4373,
+                        "producer_name": "Dipen Patel"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 5727,
+                        "writer_name": "Jaswant Parmar"
+                    },
+                    {
+                        "writer_id": 3814,
+                        "writer_name": "Krishnadev Yagnik"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 355007,
+                "imdb_id": 7754540,
+                "imdb_title_id": "tt7754540",
+                "film_name": "Odavum Mudiyadhu Oliyavum Mudiyadhu",
+                "other_titles": {
+                    "TA": "Odavum Mudiyadhu Oliyavum Mudiyadhu"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/355007/IND_355007xxl0.jpg",
+                                "width": 999,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 120,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 13,
+                        "genre_name": "Horror"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 7824,
+                        "cast_name": "Yaashika Aanand"
+                    },
+                    {
+                        "cast_id": 8907,
+                        "cast_name": "George Maryan"
+                    },
+                    {
+                        "cast_id": 17075,
+                        "cast_name": "Sha Ra"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8257,
+                        "director_name": "Ramesh Venkat"
+                    }
+                ],
+                "producers": [],
+                "writers": [],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 354681,
+                "imdb_id": 28541110,
+                "imdb_title_id": "tt28541110",
+                "film_name": "Kabuliwala (Bengali)",
+                "other_titles": {
+                    "BE": "Kabuliwala"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://m.media-amazon.com/images/M/MV5BZDQ2ZjA0ZmMtM2EyNi00MGE0LWIwMWQtNDUxMGM3ZjZmMGUyXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-22",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 106,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 2676,
+                        "cast_name": "Mithun Chakraborty"
+                    },
+                    {
+                        "cast_id": 177,
+                        "cast_name": "Abir Chatterjee"
+                    },
+                    {
+                        "cast_id": 3740,
+                        "cast_name": "Sohini Sarkar"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 1007,
+                        "director_name": "Suman Ghosh"
+                    }
+                ],
+                "producers": [],
+                "writers": [],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 345558,
+                "imdb_id": 27411207,
+                "imdb_title_id": "tt27411207",
+                "film_name": "Queen Elizabeth (Malayalam)",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://preview.redd.it/queen-elizabeth-new-poster-m-padmakumar-meera-jasmine-v0-hxesfosr24cb1.jpg?width=640&crop=smart&auto=webp&s=4872fdc4eab47048180b291faa72e36ffe23d9f1",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 119,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    },
+                    {
+                        "genre_id": 8,
+                        "genre_name": "Family"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 7909,
+                        "cast_name": "Meera Jasmine"
+                    },
+                    {
+                        "cast_id": 6247,
+                        "cast_name": "Narain"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 186,
+                        "director_name": "M Padmakumar"
+                    }
+                ],
+                "producers": [],
+                "writers": [],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            },
+            {
+                "film_id": 349978,
+                "imdb_id": 28550639,
+                "imdb_title_id": "tt28550639",
+                "film_name": "Hurry Om Hurry",
+                "other_titles": {
+                    "GU": "Hurry Om Hurry"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://m.media-amazon.com/images/M/MV5BZGIwN2YxYTYtZTcxYS00NmU1LWI3ZTAtMzkzZTNmYTc2MDQ3XkEyXkFqcGdeQXVyODY2MTUxMDA@._V1_.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "Om and Vini`s unforeseen union faces obstacles, leading to betrayal and a mysterious encounter that threatens to alter their lives.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-08",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 147,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 4189,
+                        "cast_name": "Raunaq Kamdar"
+                    },
+                    {
+                        "cast_id": 11822,
+                        "cast_name": "Vyoma Nandi"
+                    },
+                    {
+                        "cast_id": 250,
+                        "cast_name": "Siddharth Randeria"
+                    },
+                    {
+                        "cast_id": 21387,
+                        "cast_name": "Malhaar Rathod"
+                    },
+                    {
+                        "cast_id": 13364,
+                        "cast_name": "Shivam Parekh"
+                    },
+                    {
+                        "cast_id": 21388,
+                        "cast_name": "Bhumi Rajgor"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 7810,
+                        "director_name": "Nisarg Vaidya"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 3670,
+                        "producer_name": "Sanjay Chhabria"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 5710,
+                        "writer_name": "Vinod K Sarvaiya"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    }
+                ]
+            },
+            {
+                "film_id": 315920,
+                "imdb_id": 6166392,
+                "imdb_title_id": "tt6166392",
+                "film_name": "Wonka",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://deadline.com/wp-content/uploads/2023/11/WONKA_INSTA_VERT_MAIN_1638x2048_DOM.jpg?w=800",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "An origin story that explores the vivid, mythical beginnings of the imaginative young inventor before he becomes the renowned scrumdiddlyumptious Mozart of chocolate",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-08",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 116,
+                "review_stars": 3,
+                "review_txt": "Even though it is rather obviously trading on a familiar and beloved brand, Wonka is nevertheless a fun and imaginative family film - certainly better than one might expect from a production crassly viewed by some as a \"cash grab.\" While the movie is set up as a prequel to the 1971 film Willy Wonka and the Chocolate Factory, it owes as much to The Greatest Showman as it does to the earlier movie. The narrative manages the difficult task of resurrecting the blended sweetness and nastiness of the original confection. Although the story is original and Roald Dahl is credited only as the creator of the characters, the tone is reflective of his work. While Tim Burton leaned heavily into the dark weirdness of Dahl and Mel Stuart preferred to lighten the mood, Paul King skates a line in between the two.\n\n2023 hasn't been an especially good year for family entertainment. Most releases have either been too childish for adults to enjoy or too \"mature\" for younger kids to appreciate. Wonka is one of the few (and perhaps the only live action example) to find a happy medium. It's softer than the PG-13 Barbie and not as juvenile as the various cartoon movies that have dotted the landscape. Altogether, although far from a perfect motion picture, Wonka is better than one might expect because it pays homage to the Gene Wilder iteration while telling its own story.\n\nThe narrative transpires about 15-20 years prior to the events related in Willy Wonka and the Chocolate Factory (or, alternately, the 2005 Burton remake, Charlie and the Chocolate Factory) in an anonymous European city. That's where a wet-behind-the-ears chocolatier, Willy Wonka (Timothee Chalamet), arrives to make his fortune by opening a shop at the Galeries Gourmet. Unfortunately, as good as Willy's wares are (and they are very good), they can't save him from those who would prey on his naivete, like the innkeeper Mrs. Scrubbit (Olivia Colman), or the leaders of the city's Chocolate Syndicate, Mssrs. Slugworth (Paterson Joseph), Prodnose (Matt Lucas), and Fickelgruber (Matthey Bayton).  \n\nWilly soon finds himself in a perilous position. Unable to pay for his room, he becomes an indentured servant to Mrs. Scrubbit, who forces him to slave away in a launderette. While there, he bonds with the other workers, including the grumpy Abacus Crunch (Jim Carter), and befriends Mrs. Scrubbit's serving girl, Noodle (Calah Lane). He also notices a small orange man following him around; he will later learn that this is Lofty (Hugh Grant), an Oompa-Loompa. Willy is determined not to be defeated by his dire circumstances and hatches an improbable plan by which he will escape from Mrs. Scrubbit's clutches and achieve his dream despite the opposition from the syndicate and their bought-and-paid-for police chief (Keegan-Michael Key).\n\nWonka is sometimes funny, sometimes weird, and sometimes silly. The musical nature of the production requires quite a bit of singing. In addition to several new songs composed by Neil Hannon and Joby Talbot, some of which are catchy, the movie brings back a couple of classics from Willy Wonka and the Chocolate Factory: the Leslie Bricusse/Anthony Newley numbers \"Oompa-Loompa\" (with reworked lyrics) and \"Pure Imagination.\" Sadly, there was no room for \"The Candy Man.\" Generally speaking, the music in Wonka could be considered a high point...with one reservation. As energetic and charismatic as he might be as an actor, Chalamet is a horrible singer. His strident crooning of \"A World of Your Own\" makes the otherwise enjoyable tune into an exercise in endurance.\n\nChalamet's performances echoes that of Gene Wilder without aping him. Whereas Wilder's Wonka was an enigmatic presence, Chalamet's portrayal is uniformly appealing. He is surrounded by an impressive supporting cast that includes Olivia Colman, the gruff Jim Carter (best known as Mr. Carson in Downton Abbey), and Sally Hawkins (as Willy's mom and the inspiration for all his endeavors). Hugh Grant has been cut down to size and colored up (Grant, in typical fashion, indicates he hated playing the part). And Keegan-Michael Key gets to start the film looking somewhat normal before plumping up to resemble Mr. Creosote in one of the movie's best sight gags.\n\nThe set design is fantastical without being overbearing and, late in the proceedings, provide a direct link to Willy Wonka and the Chocolate Factory. The humor varies from endearing to subversive. There are instances when one might wonder whether someone from Monty Python snuck in and wrote a few lines. Cash-grab or not, Wonka is a welcome parfait to top off the meatier entrees that the film industry offers at this time of year.\n\n© 2023 James Berardinelli",
+                "trailers": {
+                    "high": [
+                        {
+                            "film_trailer": "https://trailer.movieglu.com/315920_high.mp4",
+                            "trailer_image": "https://image.movieglu.com/315920/315920h3.jpg",
+                            "version": 1,
+                            "quality": "high",
+                            "region": "US"
+                        }
+                    ]
+                },
+                "genres": [
+                    {
+                        "genre_id": 8,
+                        "genre_name": "Family"
+                    },
+                    {
+                        "genre_id": 5,
+                        "genre_name": "Action/Adventure"
+                    },
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 423,
+                        "cast_name": "Timothee Chalamet"
+                    },
+                    {
+                        "cast_id": 17090,
+                        "cast_name": "Rowan Atkinson"
+                    },
+                    {
+                        "cast_id": 20252,
+                        "cast_name": "Mathew Baynton"
+                    },
+                    {
+                        "cast_id": 397,
+                        "cast_name": "Jim Carter"
+                    },
+                    {
+                        "cast_id": 1640,
+                        "cast_name": "Olivia Colman"
+                    },
+                    {
+                        "cast_id": 20253,
+                        "cast_name": "Tom Davis"
+                    },
+                    {
+                        "cast_id": 20254,
+                        "cast_name": "Simon Farnaby"
+                    },
+                    {
+                        "cast_id": 20255,
+                        "cast_name": "Rich Fulcher"
+                    },
+                    {
+                        "cast_id": 533,
+                        "cast_name": "Sally Hawkins"
+                    },
+                    {
+                        "cast_id": 6879,
+                        "cast_name": "Kobna Holdbrook-Smith"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 7719,
+                        "director_name": "Paul King"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 1980,
+                        "producer_name": "David Heyman"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 5465,
+                        "writer_name": "Simon Rich"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ],
+                "alternate_versions": [
+                    {
+                        "film_id": 330004,
+                        "film_name": "Wonka - The IMAX Experience",
+                        "version_type": "IMAX"
+                    }
+                ]
+            },
+            {
+                "film_id": 342981,
+                "imdb_id": 27798104,
+                "imdb_title_id": "tt27798104",
+                "film_name": "Jhimma 2",
+                "other_titles": {
+                    "MA": "Jhimma 2"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://image.movieglu.com/342981/IND_342981xxl0.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "The gang reunites for yet another excursion filled with adventure and self-discovery but this time with some unexpected twists. They come across new challenges that seem unsurpassable, but with the right people by your side, nothing seems impossible.",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-11-24",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 137,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    },
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 9084,
+                        "cast_name": "Shivani Surve"
+                    },
+                    {
+                        "cast_id": 10492,
+                        "cast_name": "Sayali Sanjeev"
+                    },
+                    {
+                        "cast_id": 11126,
+                        "cast_name": "Kshitee Jog"
+                    },
+                    {
+                        "cast_id": 5954,
+                        "cast_name": "Siddharth Chandekar"
+                    },
+                    {
+                        "cast_id": 4012,
+                        "cast_name": "Rinku Rajguru"
+                    },
+                    {
+                        "cast_id": 21197,
+                        "cast_name": "Nirmiti Sawant"
+                    },
+                    {
+                        "cast_id": 1601,
+                        "cast_name": "Suchitra Bandekar"
+                    },
+                    {
+                        "cast_id": 21198,
+                        "cast_name": "Gandhar Babre"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 2197,
+                        "director_name": "Hemant Dhome"
+                    }
+                ],
+                "producers": [
+                    {
+                        "producer_id": 2323,
+                        "producer_name": "Jyoti Deshpande"
+                    },
+                    {
+                        "producer_id": 4323,
+                        "producer_name": "Kshitee Jog"
+                    }
+                ],
+                "writers": [
+                    {
+                        "writer_id": 4313,
+                        "writer_name": "Irawati Karnik"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    }
+                ]
+            },
+            {
+                "film_id": 355533,
+                "imdb_id": 29244100,
+                "imdb_title_id": "tt29244100",
+                "film_name": "Sarakku",
+                "other_titles": {
+                    "TA": "Sarakku"
+                },
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://assetscdn1.paytm.com/images/cinema/Sarakku---705x750-bf5a8ca0-a49c-11ee-a5bf-d57c26f93d70.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-12-29",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 150,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 3,
+                        "genre_name": "Comedy"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 1410,
+                        "cast_name": "Yogi Babu"
+                    },
+                    {
+                        "cast_id": 2405,
+                        "cast_name": "Mansoor Ali Khan"
+                    },
+                    {
+                        "cast_id": 13393,
+                        "cast_name": "Motta Rajendran"
+                    },
+                    {
+                        "cast_id": 17702,
+                        "cast_name": "Redin Kingsley"
+                    },
+                    {
+                        "cast_id": 12260,
+                        "cast_name": "Bhagyaraj"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8331,
+                        "director_name": "Jayakumar J"
+                    }
+                ],
+                "producers": [],
+                "writers": [
+                    {
+                        "writer_id": 5749,
+                        "writer_name": "Ezhisur Aravindhan"
+                    }
+                ],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    }
+                ]
+            },
+            {
+                "film_id": 354534,
+                "imdb_id": 23475032,
+                "imdb_title_id": "tt23475032",
+                "film_name": "Joe (Tamil)",
+                "other_titles": null,
+                "version_type": "Standard",
+                "images": {
+                    "poster": {
+                        "1": {
+                            "image_orientation": "portrait",
+                            "region": "IN",
+                            "xxlarge": {
+                                "film_image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/1d/e3/b61de32f-98ed-164f-e6e4-9b0d24d87288/cover.jpg/1200x1200bb.jpg",
+                                "width": 1200,
+                                "height": 1500
+                            }
+                        }
+                    }
+                },
+                "synopsis_long": "",
+                "distributor_id": null,
+                "distributor": null,
+                "release_dates": [
+                    {
+                        "release_date": "2023-11-24",
+                        "notes": "IND"
+                    }
+                ],
+                "age_rating": [
+                    {
+                        "rating": "U/A ",
+                        "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/u/a.png",
+                        "age_advisory": ""
+                    }
+                ],
+                "duration_mins": 147,
+                "review_stars": 0,
+                "review_txt": "",
+                "trailers": null,
+                "genres": [
+                    {
+                        "genre_id": 1,
+                        "genre_name": "Drama"
+                    },
+                    {
+                        "genre_id": 2,
+                        "genre_name": "Romance"
+                    }
+                ],
+                "cast": [
+                    {
+                        "cast_id": 19878,
+                        "cast_name": "Malavika Manoj"
+                    },
+                    {
+                        "cast_id": 16022,
+                        "cast_name": "Bhavya Trikha"
+                    },
+                    {
+                        "cast_id": 7825,
+                        "cast_name": "Anbu Thasan"
+                    },
+                    {
+                        "cast_id": 5535,
+                        "cast_name": "Rio Raj"
+                    }
+                ],
+                "directors": [
+                    {
+                        "director_id": 8203,
+                        "director_name": "Hariharan Ram"
+                    }
+                ],
+                "producers": [],
+                "writers": [],
+                "show_dates": [
+                    {
+                        "date": "2024-01-06"
+                    },
+                    {
+                        "date": "2024-01-07"
+                    },
+                    {
+                        "date": "2024-01-08"
+                    },
+                    {
+                        "date": "2024-01-09"
+                    },
+                    {
+                        "date": "2024-01-10"
+                    },
+                    {
+                        "date": "2024-01-11"
+                    }
+                ]
+            }
+            
+            
+          
+          
+    ],
+    "showTimes" : 
+        {
+            "Thiruvananthapuram": [
+                {
+                  "name": "SP Cinemas",
+                  "filmsShowing": [331615, 319276, 345326,354484,315079, 317823]
+                },
+                {
+                  "name": "Kalabhavan Theatre",
+                  "filmsShowing": [315079, 320576, 354484,315079, 349137]
+                },
+                {
+                  "name": "Aries Plex SL Cinemas",
+                  "filmsShowing": [319276, 288637, 354724,354484, 329314]
+                },
+                {
+                  "name": "Ajanta Theatre",
+                  "filmsShowing": [331615, 320576, 354268,315079, 352548]
+                },
+                {
+                  "name": "Kairali Theatre",
+                  "filmsShowing": [320576, 288637, 354451,354484, 64492]
+                },
+                {
+                  "name": "SPI Kripa Cinemas",
+                  "filmsShowing": [288637, 315079, 350633,354484, 355007]
+                },
+                {
+                  "name": "PVR: 4DX Lulu",
+                  "filmsShowing": [315079, 319276, 354681, 345558, 349978, 315920]
+                },
+                {
+                  "name": "PVR: Lulu",
+                  "filmsShowing": [319276, 331615, 349978, 315920, 342981, 355533]
+                },
+                {
+                  "name": "Sri Kalidas M Plex",
+                  "filmsShowing": [331615, 315079, 342981,354484, 355533, 354534]
+                },
+                {
+                  "name": "Ajantha Theatre",
+                  "filmsShowing": [319276, 331615, 354534,354484]
+                },
+                {
+                  "name": "Carnival Cinemas",
+                  "filmsShowing": [315079, 320576, 354268, 352548, 345326, 317823]
+                },
+                {
+                  "name": "Sree Padmanabha Theatre",
+                  "filmsShowing": [320576, 331615, 349137, 354724, 329314, 354268]
+                },
+                {
+                  "name": "New Theatre",
+                  "filmsShowing": [331615, 319276, 350633, 355007, 354451, 64492]
+                },
+                {
+                  "name": "Kripa Cinemas",
+                  "filmsShowing": [288637, 315079, 354681, 345558, 349137, 354724]
+                }
+              ],
+              
+                "Kollam": [
+                  {
+                    "name": "Carnival: H & J Complex",
+                    "filmsShowing": [345326, 317823, 354484, 349137]
+                  },
+                  {
+                    "name": "Gmax Cinemas 4K 3D",
+                    "filmsShowing": [354724, 329314, 354268, 352548]
+                  },
+                  {
+                    "name": "Carnival Cinemas",
+                    "filmsShowing": [354268, 352548, 345326, 317823]
+                  },
+                  {
+                    "name": "Archana & Aradhana Theatres",
+                    "filmsShowing": [354451, 64492, 350633, 355007]
+                  },
+                  {
+                    "name": "Varsha Royalsute Theatre",
+                    "filmsShowing": [350633, 355007, 354681, 345558]
+                  },
+                  {
+                    "name": "Pranavam Theatre",
+                    "filmsShowing": [354681, 345558, 349978, 315920]
+                  },
+                  {
+                    "name": "Grand & Prince Movie Theater",
+                    "filmsShowing": [349978, 315920, 342981, 355533]
+                  },
+                  {
+                    "name": "SPI Kripa Cinemas",
+                    "filmsShowing": [342981, 355533, 354534, 345326]
+                  },
+                  {
+                    "name": "PVR: 4DX Lulu",
+                    "filmsShowing": [354534, 345326, 354484, 349137]
+                  },
+                  {
+                    "name": "PVR: Lulu",
+                    "filmsShowing": [354484, 349137, 354724, 329314]
+                  },
+                  {
+                    "name": "Sri Kalidas M Plex",
+                    "filmsShowing": [354724, 329314, 354268, 352548]
+                  },
+                  {
+                    "name": "Usha Cinema",
+                    "filmsShowing": [354268, 352548, 354451, 64492]
+                  },
+                  {
+                    "name": "Swathy Screens",
+                    "filmsShowing": [354451, 64492, 350633, 355007]
+                  },
+                  {
+                    "name": "Seema Cineplex",
+                    "filmsShowing": [350633, 355007, 354681, 345558]
+                  }
+                ],
+                    "Alappuzha": [
+                      {
+                        "name": "Pankaj Theatre",
+                        "filmsShowing": [345326, 317823, 354484, 349137, 354724,320576]
+                      },
+                      {
+                        "name": "Santhi Theater",
+                        "filmsShowing": [329314, 354268, 352548, 354451, 64492]
+                      },
+                      {
+                        "name": "Kairali / Sree Alappuzha",
+                        "filmsShowing": [350633, 355007, 354681, 345558, 349978]
+                      },
+                      {
+                        "name": "Pan Cinemas",
+                        "filmsShowing": [315920, 342981, 355533, 354534, 345326]
+                      },
+                      {
+                        "name": "AEC Cinemas",
+                        "filmsShowing": [354484, 349137, 354724, 329314, 354268]
+                      },
+                      {
+                        "name": "Ganam Theatre",
+                        "filmsShowing": [352548, 354451, 64492, 350633, 355007]
+                      },
+                      {
+                        "name": "Prathibha Theatre",
+                        "filmsShowing": [354681, 345558, 349978, 315920, 342981]
+                      },
+                      {
+                        "name": "Santhosh: Vallakali Cine Complex",
+                        "filmsShowing": [355533, 354534, 345326, 354484, 349137]
+                      },
+                      {
+                        "name": "SN Theatre Haripad",
+                        "filmsShowing": [354724, 329314, 354268, 352548, 354451]
+                      },
+                      {
+                        "name": "Seethas Theatre",
+                        "filmsShowing": [64492, 350633, 355007, 354681, 345558]
+                      },
+                      {
+                        "name": "Sas Shanti Theatre",
+                        "filmsShowing": [349978, 315920, 342981, 355533, 354534]
+                      },
+                      {
+                        "name": "Sania Cinemas Eramalloor",
+                        "filmsShowing": [345326, 317823, 354484, 349137, 354724]
+                      },
+                      {
+                        "name": "Raiban Cine House",
+                        "filmsShowing": [354268, 352548, 354451, 64492, 350633]
+                      },
+                      {
+                        "name": "Paradise Cinema Cherthala",
+                        "filmsShowing": [355007, 354681, 345558, 349978, 315920]
+                      }
+                    ],
+                  
+                  
+            "Pathanamthitta": [
+              "Trinity MovieMax",
+              "Dhanya Remya",
+              "Aiswarya Theatre",
+              "Sreelakshmi Theatre",
+              "Sagariga Theatre",
+              "Smitha Theatre",
+              "Santhi Theatre",
+              "Nayanam Theatre",
+              "Mahalakshmi Theatre",
+              "Deepa Theatre",
+              "Chilanka Theatre",
+              "M K R Theatre",
+              "Aishwarya Theatre",
+              "MKR Theatre"
+            ],
+            "Kottayam": [
+              "Anand Theatres",
+              "Abhilash Theatre",
+              "Anaswara Theatre",
+              "Central Cinemas",
+              "Carnival Cinemas",
+              "Asha Anupama Theatre",
+              "Artist Kesavan Memorial Hall",
+              "Trinity MovieMax",
+              "Dhanya Remya",
+              "Aiswarya Theatre",
+              "Sreelakshmi Theatre",
+              "Sagariga Theatre",
+              "Smitha Theatre",
+              "Santhi Theatre"
+            ],
+            "Idukki": [
+              "Silver Hills Cinemas",
+              "Greenland Cinema",
+              "Aashirvad Cineplexx",
+              "Sree Krishna Theatre",
+              "Sree Padmanabha Theatre",
+              "Sree Rama Theatre",
+              "Sree Sankara Theatre",
+              "Sree Vinayaka Theatre",
+              "Sree Vishnu Theatre",
+              "Sree Vivekananda Theatre",
+              "Sree Narayana Theatre",
+              "Sree Gokulam Theatre",
+              "Sree Lakshmi Theatre",
+              "Sree Devi Theatre"
+            ],
+            "Ernakulam": [
+              "Cinepolis - Centre Square Mall",
+              "PVR, Lulu Mall",
+              "Shenoys Cinema",
+              "Majestic Multiplex",
+              "Cinepoint",
+              "Cinemax - Oberon Mall",
+              "Sangeetha Savitha Sarita Theatre",
+              "Padma Cinema 2K 3D",
+              "Sunrays Rajalakshmi Cine Services",
+              "EVM Cinema",
+              "Kanoos Cinema",
+              "PVR Cinemas",
+              "Q Cinemas - Gold Souk Grande",
+              "Carnival Cinemas - Angamaly"
+            ],
+            "Thrissur": [
+              "Georgettans Ragam 4K 3D",
+              "Jos Theater",
+              "Ganam Cinemas",
+              "Ramdas & Ravikrishna theatre",
+              "Kairali Sree Theatre 4K 3D",
+              "PVR Cinemas",
+              "Skyline Cinemas",
+              "Aswini Theatre",
+              "Dhanya Theatre",
+              "Bhavani Theatre",
+              "Elite Theatre",
+              "Priya Theatre",
+              "Ajantha Theatre",
+              "Sree Theatre"
+            ],
+            "Palakkad": [
+              "Priya Cinema",
+              "Priyadarsini Theatre 2K 3D",
+              "New Aroma",
+              "V CINEMAS SREE DEVI DURGA",
+              "Sathya Movie House",
+              "Ajantha Theatre",
+              "Alka Theatre",
+              "Kalpathy Theatre",
+              "Apsara Theatre",
+              "Sree Theatre",
+              "Devi Theatre",
+              "Priya Theatre",
+              "Arya Theatre",
+              "Elite Theatre"
+            ],
+            "Malappuram": [
+              "Gemini Cinemas",
+              "Cineplex Malappuram",
+              "Paragon Theatre",
+              "Sree Gokulam Movie Theatre",
+              "Elite Theatre",
+              "Kalpathy Theatre",
+              "Arya Theatre",
+              "Grand Theatre",
+              "Sreejith Theatre",
+              "Alka Theatre",
+              "Nila Theatre",
+              "Sree Krishna Theatre",
+              "Apsara Theatre",
+              "Devi Theatre"
+            ],
+            "Kozhikode": [
+              "RP Aashirvad Cineplexx",
+              "Apsara Theatre",
+              "Ashoka Talkies",
+              "Crown Theatre",
+              "Rose Cine Palace",
+              "B M Cinemas",
+              "Sandhya Cine House",
+              "Surabhi Cinemas",
+              "Kirthi Mudra Theater",
+              "Pee Cee Talkies",
+              "Magic Frames Cinemas",
+              "Regal Cinemas",
+              "Kairali Sree Theatre",
+              "Mallika Plex Theatre"
+            ],
+            "Wayanad": [
+              "Jose Cinemas",
+              "Aishwarya Ac Dts",
+              "Mint Cinemas",
+              "Blue Moon Theatre",
+              "Maruthi Theatre",
+              "Matha Theatre",
+              "Jaithra Theatre",
+              "Veena Theatre",
+              "Mahaveer Movies",
+              "Ananthaveera Theatre"
+            ],
+            "Kasargod": [
+              "MOVIEMAX CIRCLE",
+              "Carnival Cinemas Kasaragod",
+              "Cine Krishna Theatre",
+              "Vinayaka Golden Mall Multiplex",
+              "Deepthi Theatre",
+              "Vinayaka Theatre",
+              "Anjaneya Cinema Hall",
+              "Pakkanar Theatre",
+              "Vinayaka Multiplex",
+              "Kaveri Cinemas"
+            ],
+            "Kannur": [
+              "Sree Padmanabha Theatre",
+              "Savitha Film City",
+              "Coronation Theatre",
+              "Aishwarya Theatre",
+              "Kavitha Theatre",
+              "Sree Krishna Theatre",
+              "Little Kavitha",
+              "Seetha Theatre",
+              "Samudra Theatre",
+              "New Sagara Theatre"
+            ]
+          }
+    
+          
+    
+
+    
+    
+}
